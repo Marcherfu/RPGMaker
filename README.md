@@ -8,9 +8,12 @@ Cryomancien - Complet
 Aquamancien - Complet  
 Géomancien - Complet  
 Aeromancien - Complet  
+Berserker - Complet  
 Guerrier - Complet  
+Mercenaire - Complet  
 Archer - Complet  
-Assassin - Complet  
+Assassin - Complet    
+Cuisinier - Complet
 Sorcelame - Complet  
 Paladin - Complet  
-Technomage - Complet  
+Technomage - Complet
