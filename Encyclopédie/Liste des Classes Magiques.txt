@@ -1,0 +1,99 @@
+=========
+Pyromancien
+=========
+PVs : E
+PMs : A
+Attaque : E
+Défense : E
+Attaque Magique : A
+Défense Magique : A
+Agilité : A
+Chance : A
+=========
+Cryomancien
+=========
+PVs : A
+PMs : A
+Attaque : E
+Défense : D
+Attaque Magique : A
+Défense Magique : B
+Agilité : C
+Chance : C
+===========
+Électromancien
+===========
+PVs : C
+PMs : A
+Attaque : D
+Défense : C
+Attaque Magique : A
+Défense Magique : C
+Agilité : A
+Chance : D
+==========
+Aquamancien
+==========
+PVs : C
+PMs : D
+Attaque : C
+Défense : C
+Attaque Magique : A
+Défense Magique : C
+Agilité : D
+Chance : A
+=========
+Géomancien
+=========
+PVs : A
+PMs : A
+Attaque : E
+Défense : B
+Attaque Magique : A
+Défense Magique : D
+Agilité : C
+Chance : C
+=========
+Aeromancien
+=========
+PVs : D
+PMs : B
+Attaque : C
+Défense : D
+Attaque Magique : A
+Défense Magique : D
+Agilité : A
+Chance : A
+===========
+Luminomancien
+===========
+PVs : A
+PMs :  A
+Attaque : E
+Défense : B
+Attaque Magique : B
+Défense Magique : A
+Agilité : D
+Chance : D
+===========
+Nécromancien
+===========
+PVs : A
+PMs :  A
+Attaque : E
+Défense : D
+Attaque Magique : A
+Défense Magique : B
+Agilité : C
+Chance : C
+===========
+Hématomancien
+===========
+PVs : A
+PMs : A
+Attaque : E
+Défense : C
+Attaque Magique : A
+Défense Magique : C
+Agilité : D
+Chance : C

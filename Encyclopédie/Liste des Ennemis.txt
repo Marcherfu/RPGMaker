@@ -1,0 +1,100 @@
+===============
+Capitaine de la Garde
+===============
+PVs : 418 | PMs : 0 | Attaque : 16 | Défense : 16 | Magie : 16 | Défense Magique : 16 | Agilité : 25 | Chance : 27
+Expérience gagnée : 43 | Argent gagné : 150 | Butin : Lame en Fer (1/10)
+=====
+Soldat
+=====
+PVs : 603 | PMs : 0 | Attaque : 17 | Défense : 20 | Magie : 15 | Défense Magique : 22 | Agilité : 18 | Chance : 15
+Expérience gagnée : 75 | Argent gagné : 150 | Butin : Lance en Fer (1/10), Targe en Fer (1/10)
+============
+Chef des Bandits
+============
+PVs : 403 | PMs : 75 | Attaque : 17 | Défense : 25 | Magie : 15 | Défense Magique : 25 | Agilité : 18 | Chance : 25
+Expérience gagnée : 75 | Argent gagné : 150 | Butin : Lame en Fer (1/10)
+==========
+Bandit Sorcier
+==========
+PVs : 303 | PMs : 138 | Attaque : 15 | Défense : 25 | Magie : 17 | Défense Magique : 25 | Agilité : 18 | Chance : 25
+Expérience gagnée : 75 | Argent gagné : 150 | Butin : Sceptre en Fer (1/10)
+===========
+Bandit Assassin
+===========
+PVs : 303 | PMs : 122 | Attaque : 17 | Défense : 25 | Magie : 15 | Défense Magique : 25 | Agilité : 18 | Chance : 25
+Expérience gagnée : 75 | Argent gagné : 150 | Butin : Dague en Fer (1/10)
+==========
+Bandit Archer
+==========
+PVs : 303 | PMs : 89 | Attaque : 17 | Défense : 25 | Magie : 15 | Défense Magique : 25 | Agilité : 18 | Chance : 25
+Expérience gagnée : 75 | Argent gagné : 150 | Butin : Arc en Fer (1/10)
+============
+Cristal de Foudre
+============
+PVs : 500 | PMs : 100 | Attaque : 20 | Défense : 1 | Magie : 20 | Défense Magique : 1 | Agilité : 20 à 60 | Chance : 20 à 60
+Expérience gagnée : 175 | Argent gagné : 350
+==========
+Cristal de Feu
+==========
+PVs : 500 | PMs : 100 | Attaque : 20 | Défense : 1 | Magie : 20 | Défense Magique : 1 | Agilité : 20 à 60 | Chance : 20 à 60
+Expérience gagnée : 175 | Argent gagné : 350
+==========
+Cristal de Vent
+==========
+PVs : 500 | PMs : 100 | Attaque : 20 | Défense : 1 | Magie : 20 | Défense Magique : 1 | Agilité : 20 à 60 | Chance : 20 à 60
+Expérience gagnée : 175 | Argent gagné : 350
+===========
+Cristal de Glace
+===========
+PVs : 500 | PMs : 100 | Attaque : 20 | Défense : 1 | Magie : 20 | Défense Magique : 1 | Agilité : 20 à 60 | Chance : 20 à 60
+Expérience gagnée : 175 | Argent gagné : 350
+===
+???
+===
+PVs : 1500 | PMs : 500 | Attaque : 30 | Défense : 1 | Magie : 20 | Défense Magique : 1 | Agilité : 20 à 60 | Chance : 20 à 60
+Expérience gagnée : 0 | Argent gagné : 0 | Butin : Bague d'Expérience (1/20)
+========
+Slime d'Eau
+========
+PVs : 703 | PMs : 200 | Attaque : 27 | Défense : 30 | Magie : 25 | Défense Magique : 32 | Agilité : 28 | Chance : 25
+Expérience gagnée : 100 | Argent gagné : 200 | Butin : Acier (1/15), Acier (1/20), Acier (1/25)
+===============
+Garde des Montagnes
+===============
+PVs : 1500 | PMs : 0 | Attaque : 40 | Défense : 50 | Magie : 40 | Défense Magique : 50 | Agilité : 30 à 70 | Chance : 30 à 70
+Expérience gagnée : 350 | Argent gagné : 700 | Butin : Lance en Acier (1/10), Targe en Acier (1/10)
+==========
+Slime de Terre
+==========
+PVs : 1247 | PMs : 200 | Attaque : 43 | Défense : 58 | Magie : 45 | Défense Magique : 51 | Agilité : 35 | Chance : 37
+Expérience gagnée : 200 | Argent gagné : 400 | Butin : Etain (1/25), Etain (1/30), Etain (1/35)
+============
+Slime de Magma
+============
+PVs : 1436 | PMs : 200 | Attaque : 41 | Défense : 48 | Magie : 63 | Défense Magique : 52 | Agilité : 35 | Chance : 37
+Expérience gagnée : 200 | Argent gagné : 400 | Butin : Etain (1/25), Etain (1/30), Etain (1/35)
+======
+Chimère
+======
+PVs : 2000 | PMs : 600 | Attaque : 70 | Défense : 70 | Magie : 70 | Défense Magique : 70 | Agilité : 40 à 80 | Chance : 40 à 80
+Expérience gagnée : 1500 | Argent gagné : 2000 | Butin : Bague de Contre (1/25)
+====
+Ninja
+====
+PVs : 6000 | PMs : 500 | Attaque : 80 | Défense : 50 | Magie : 80 | Défense Magique : 50 | Agilité : 50 à 90 | Chance : 50 à 90
+Expérience gagnée : 1875 | Argent gagné : 2500 | Butin : Bague Multi-Coup (1/30)
+==========
+Slime de Givre
+==========
+PVs : 2305 | PMs : 200 | Attaque : 51 | Défense : 58 | Magie : 73 | Défense Magique : 52 | Agilité : 45 | Chance : 47
+Expérience gagnée : 400 | Argent gagné : 800 | Butin : Etain (1/25), Etain (1/30), Etain (1/35)
+===========
+Gardien du Vent
+===========
+PVs : 10000 | PMs : 500 | Attaque : 85 | Défense : 1 | Magie : 85 | Défense Magique : 1 | Agilité : 60 à 100 | Chance : 60 à 100
+Expérience gagnée : 2250 | Argent gagné : 3000 | Butin : Bague de Précision (1/35)
+================
+Zombie de Compagnie
+================
+PVs : 999999 | PMs : 9999 | Attaque : 1 | Défense : 1 | Magie : 1 | Défense Magique : 1 | Agilité : 1 | Chance : 1
+Expérience gagnée : 0 | Argent gagné : 0

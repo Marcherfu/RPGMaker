@@ -1,0 +1,44 @@
+========
+Sorcelame
+========
+PVs : C
+PMs : C
+Attaque : B
+Défense : D
+Attaque Magique : B
+Défense Magique : D
+Agilité : A
+Chance : A
+=====
+Moine
+=====
+PVs : A
+PMs : A
+Attaque : D
+Défense : A
+Attaque Magique : D
+Défense Magique : A
+Agilité : D
+Chance : D
+=====
+Paladin
+=====
+PVs : A
+PMs : C
+Attaque : C
+Défense : A
+Attaque Magique : C
+Défense Magique : A
+Agilité : E
+Chance : E
+=========
+Technomage
+=========
+PVs : E
+PMs : A
+Attaque : A
+Défense : E
+Attaque Magique : A
+Défense Magique : E
+Agilité : A
+Chance : A

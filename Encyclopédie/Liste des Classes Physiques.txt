@@ -1,0 +1,99 @@
+=======
+Berserker
+=======
+PVs : A
+PMs : E
+Attaque : A
+Défense : C
+Attaque Magique : E
+Défense Magique : C
+Agilité : A
+Chance : A
+======
+Guerrier
+======
+PVs : B
+PMs : D
+Attaque : A
+Défense : B
+Attaque Magique : E
+Défense Magique : D
+Agilité : A
+Chance : A
+=======
+Fantassin
+=======
+PVs : A
+PMs : C
+Attaque : C
+Défense : B
+Attaque Magique : E
+Défense Magique : B
+Agilité : C
+Chance : C
+========
+Mercenaire
+========
+PVs : C
+PMs : C
+Attaque : A
+Défense : D
+Attaque Magique : E
+Défense Magique : D
+Agilité : A
+Chance : A
+=====
+Archer
+=====
+PVs : C
+PMs : C
+Attaque : A
+Défense : D
+Attaque Magique : C
+Défense Magique : D
+Agilité : A
+Chance : A
+=======
+Chasseur
+=======
+PVs : D
+PMs : B
+Attaque : A
+Défense : C
+Attaque Magique : C
+Défense Magique : C
+Agilité : C
+Chance : A
+=======
+Assassin
+=======
+PVs : D
+PMs : A
+Attaque : A
+Défense : D
+Attaque Magique : D
+Défense Magique : D
+Agilité : A
+Chance : A
+=====
+Voleur
+=====
+PVs : C
+PMs : A
+Attaque : A
+Défense : E
+Attaque Magique : C
+Défense Magique : E
+Agilité : A
+Chance : A
+======
+Cuisinier
+======
+PVs : A
+PMs : A
+Attaque : B
+Défense : E
+Attaque Magique : C
+Défense Magique : E
+Agilité : C
+Chance : C
