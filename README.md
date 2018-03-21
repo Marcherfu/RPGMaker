@@ -8,6 +8,7 @@ Cryomancien - Complet
 Aquamancien - Complet  
 Géomancien - Complet  
 Aeromancien - Complet  
+Luminomancien - 3 sorts (il manque les sorts des niveaux 15, 27 et 39)  
 Berserker - Complet  
 Guerrier - Complet  
 Mercenaire - Complet  
