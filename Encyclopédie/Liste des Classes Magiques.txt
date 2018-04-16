@@ -12,7 +12,7 @@ Chance : A (35)
 =========
 Cryomancien
 =========
-PVs : A (676)
+PVs : S (676)
 PMs : A (122)
 Attaque : E (10)
 Défense : D (13)
