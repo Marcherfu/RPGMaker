@@ -1,44 +1,44 @@
 ========
 Sorcelame
 ========
-PVs : C
-PMs : C
-Attaque : B
-Défense : D
-Attaque Magique : B
-Défense Magique : D
-Agilité : A
-Chance : A
+PVs : C (462) 
+PMs : C (96)
+Attaque : B (19)
+DÃ©fense : D (12)
+Attaque Magique : B (18)
+DÃ©fense Magique : D (14)
+AgilitÃ© : A (39)
+Chance : A (35)
 =====
 Moine
 =====
-PVs : A
-PMs : A
-Attaque : D
-Défense : A
-Attaque Magique : D
-Défense Magique : A
-Agilité : D
-Chance : D
+PVs : A (665)
+PMs : A (125)
+Attaque : D (14)
+DÃ©fense : A (21)
+Attaque Magique : D (13)
+DÃ©fense Magique : A (22)
+AgilitÃ© : D (20)
+Chance : D (21)
 =====
 Paladin
 =====
-PVs : A
-PMs : C
-Attaque : C
-Défense : A
-Attaque Magique : C
-Défense Magique : A
-Agilité : E
-Chance : E
+PVs : A (636)
+PMs : C (82)
+Attaque : C (17)
+DÃ©fense : A (20)
+Attaque Magique : C (15)
+DÃ©fense Magique : A (22)
+AgilitÃ© : E (18)
+Chance : E (15)
 =========
 Technomage
 =========
-PVs : E
-PMs : A
-Attaque : A
-Défense : E
-Attaque Magique : A
-Défense Magique : E
-Agilité : A
-Chance : A
+PVs : E (238)
+PMs : A (145)
+Attaque : A (23)
+DÃ©fense : E (12)
+Attaque Magique : A (23)
+DÃ©fense Magique : E (13)
+AgilitÃ© : A (40)
+Chance : A (43)
