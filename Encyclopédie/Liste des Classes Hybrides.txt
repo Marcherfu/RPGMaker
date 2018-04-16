@@ -35,7 +35,7 @@ Chance : E (15)
 Technomage
 =========
 PVs : E (238)
-PMs : A (145)
+PMs : S (145)
 Attaque : A (23)
 Défense : E (12)
 Attaque Magique : A (23)
