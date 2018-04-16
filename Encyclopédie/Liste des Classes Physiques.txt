@@ -7,19 +7,19 @@ Attaque : A (21)
 Défense : C (16)
 Attaque Magique : E (11)
 Défense Magique : C (16)
-Agilité : A (39)
+Agilité : S (39)
 Chance : A (36)
 ======
 Guerrier
 ======
 PVs : B (520)
 PMs : D (75)
-Attaque : A (22)
+Attaque : S (22)
 Défense : B (17)
 Attaque Magique : E (10)
 Défense Magique : D (13)
 Agilité : A (36)
-Chance : A (39)
+Chance : S (39)
 =======
 Fantassin
 =======
@@ -84,7 +84,7 @@ Attaque : A (20)
 Défense : E (10)
 Attaque Magique : C (15)
 Défense Magique : E (10)
-Agilité : A (39)
+Agilité : S (39)
 Chance : A (37)
 ======
 Cuisinier
