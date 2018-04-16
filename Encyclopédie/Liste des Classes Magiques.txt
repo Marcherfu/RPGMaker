@@ -1,99 +1,99 @@
 =========
 Pyromancien
 =========
-PVs : E
-PMs : A
-Attaque : E
-Défense : E
-Attaque Magique : A
-Défense Magique : A
-Agilité : A
-Chance : A
+PVs : E (220)
+PMs : A (138)
+Attaque : E (10)
+DÃ©fense : E (10)
+Attaque Magique : A (20)
+DÃ©fense Magique : A (20)
+AgilitÃ© : A (39)
+Chance : A (35)
 =========
 Cryomancien
 =========
-PVs : A
-PMs : A
-Attaque : E
-Défense : D
-Attaque Magique : A
-Défense Magique : B
-Agilité : C
-Chance : C
+PVs : A (676)
+PMs : A (122)
+Attaque : E (10)
+DÃ©fense : D (13)
+Attaque Magique : A (22)
+DÃ©fense Magique : B (19)
+AgilitÃ© : C (27)
+Chance : C (26)
 ===========
-Électromancien
+Ã‰lectromancien
 ===========
-PVs : C
-PMs : A
-Attaque : D
-Défense : C
-Attaque Magique : A
-Défense Magique : C
-Agilité : A
-Chance : D
+PVs : C (479)
+PMs : A (127)
+Attaque : D (13)
+DÃ©fense : C (16)
+Attaque Magique : A (22)
+DÃ©fense Magique : C (15)
+AgilitÃ© : A (37)
+Chance : D (24)
 ==========
 Aquamancien
 ==========
-PVs : C
-PMs : D
-Attaque : C
-Défense : C
-Attaque Magique : A
-Défense Magique : C
-Agilité : D
-Chance : A
+PVs : C (402)
+PMs : D (62)
+Attaque : C (15)
+DÃ©fense : C (17)
+Attaque Magique : A (21)
+DÃ©fense Magique : C (15)
+AgilitÃ© : D (24)
+Chance : A (39)
 =========
-Géomancien
+GÃ©omancien
 =========
-PVs : A
-PMs : A
-Attaque : E
-Défense : B
-Attaque Magique : A
-Défense Magique : D
-Agilité : C
-Chance : C
+PVs : A (627)
+PMs : A (120)
+Attaque : E (11)
+DÃ©fense : B (19)
+Attaque Magique : A (22)
+DÃ©fense Magique : D (16)
+AgilitÃ© : C (29)
+Chance : C (25)
 =========
 Aeromancien
 =========
-PVs : D
-PMs : B
-Attaque : C
-Défense : D
-Attaque Magique : A
-Défense Magique : D
-Agilité : A
-Chance : A
+PVs : D (329)
+PMs : B (105)
+Attaque : C (16)
+DÃ©fense : D (12)
+Attaque Magique : A (21)
+DÃ©fense Magique : D (12)
+AgilitÃ© : A (37)
+Chance : A (37)
 ===========
 Luminomancien
 ===========
-PVs : A
-PMs :  A
-Attaque : E
-Défense : B
-Attaque Magique : B
-Défense Magique : A
-Agilité : D
-Chance : D
+PVs : A (650)
+PMs :  A (135)
+Attaque : E (12)
+DÃ©fense : B (19)
+Attaque Magique : B (19)
+DÃ©fense Magique : A (22)
+AgilitÃ© : D (23)
+Chance : D (21)
 ===========
-Nécromancien
+NÃ©cromancien
 ===========
-PVs : A
-PMs :  A
-Attaque : E
-Défense : D
-Attaque Magique : A
-Défense Magique : B
-Agilité : C
-Chance : C
+PVs : A (619)
+PMs :  A (133)
+Attaque : E (10)
+DÃ©fense : D (13)
+Attaque Magique : A (20)
+DÃ©fense Magique : B (17)
+AgilitÃ© : C (26)
+Chance : C (27)
 ===========
-Hématomancien
+HÃ©matomancien
 ===========
-PVs : A
-PMs : A
-Attaque : E
-Défense : C
-Attaque Magique : A
-Défense Magique : C
-Agilité : D
-Chance : C
+PVs : A (603)
+PMs : A (134)
+Attaque : E (12)
+DÃ©fense : C (16)
+Attaque Magique : A (21)
+DÃ©fense Magique : C (16)
+AgilitÃ© : D (23)
+Chance : C (29)
