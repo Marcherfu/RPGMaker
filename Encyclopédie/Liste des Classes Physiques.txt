@@ -1,99 +1,99 @@
 =======
 Berserker
 =======
-PVs : A
-PMs : E
-Attaque : A
-Défense : C
-Attaque Magique : E
-Défense Magique : C
-Agilité : A
-Chance : A
+PVs : A (623)
+PMs : E (43)
+Attaque : A (21)
+DÃ©fense : C (16)
+Attaque Magique : E (11)
+DÃ©fense Magique : C (16)
+AgilitÃ© : A (39)
+Chance : A (36)
 ======
 Guerrier
 ======
-PVs : B
-PMs : D
-Attaque : A
-Défense : B
-Attaque Magique : E
-Défense Magique : D
-Agilité : A
-Chance : A
+PVs : B (520)
+PMs : D (75)
+Attaque : A (22)
+DÃ©fense : B (17)
+Attaque Magique : E (10)
+DÃ©fense Magique : D (13)
+AgilitÃ© : A (36)
+Chance : A (39)
 =======
 Fantassin
 =======
-PVs : A
-PMs : C
-Attaque : C
-Défense : B
-Attaque Magique : E
-Défense Magique : B
-Agilité : C
-Chance : C
+PVs : A (604)
+PMs : C (87)
+Attaque : C (16)
+DÃ©fense : B (18)
+Attaque Magique : E (11)
+DÃ©fense Magique : B (19)
+AgilitÃ© : C (28)
+Chance : C (29)
 ========
 Mercenaire
 ========
-PVs : C
-PMs : C
-Attaque : A
-Défense : D
-Attaque Magique : E
-Défense Magique : D
-Agilité : A
-Chance : A
+PVs : C (408)
+PMs : C (96)
+Attaque : A (20)
+DÃ©fense : D (13)
+Attaque Magique : E (10)
+DÃ©fense Magique : D (14)
+AgilitÃ© : A (38)
+Chance : A (38)
 =====
 Archer
 =====
-PVs : C
-PMs : C
-Attaque : A
-Défense : D
-Attaque Magique : C
-Défense Magique : D
-Agilité : A
-Chance : A
+PVs : C (412)
+PMs : C (89)
+Attaque : A (20)
+DÃ©fense : D (13)
+Attaque Magique : C (16)
+DÃ©fense Magique : D (14)
+AgilitÃ© : A (35)
+Chance : A (38)
 =======
 Chasseur
 =======
-PVs : D
-PMs : B
-Attaque : A
-Défense : C
-Attaque Magique : C
-Défense Magique : C
-Agilité : C
-Chance : A
+PVs : D (387)
+PMs : B (117)
+Attaque : A (21)
+DÃ©fense : C (16)
+Attaque Magique : C (15)
+DÃ©fense Magique : C (16)
+AgilitÃ© : C (26)
+Chance : A (38)
 =======
 Assassin
 =======
-PVs : D
-PMs : A
-Attaque : A
-Défense : D
-Attaque Magique : D
-Défense Magique : D
-Agilité : A
-Chance : A
+PVs : D (377)
+PMs : A (122)
+Attaque : A (21)
+DÃ©fense : D (13)
+Attaque Magique : D (12)
+DÃ©fense Magique : D (14)
+AgilitÃ© : A (35)
+Chance : A (37)
 =====
 Voleur
 =====
-PVs : C
-PMs : A
-Attaque : A
-Défense : E
-Attaque Magique : C
-Défense Magique : E
-Agilité : A
-Chance : A
+PVs : C (418)
+PMs : A (135)
+Attaque : A (20)
+DÃ©fense : E (10)
+Attaque Magique : C (15)
+DÃ©fense Magique : E (10)
+AgilitÃ© : A (39)
+Chance : A (37)
 ======
 Cuisinier
 ======
-PVs : A
-PMs : A
-Attaque : B
-Défense : E
-Attaque Magique : C
-Défense Magique : E
-Agilité : C
-Chance : C
+PVs : A (650)
+PMs : A (121)
+Attaque : B (19)
+DÃ©fense : E (12)
+Attaque Magique : C (16)
+DÃ©fense Magique : E (11)
+AgilitÃ© : C (25)
+Chance : C (27)
